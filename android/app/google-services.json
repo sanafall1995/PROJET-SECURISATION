@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "688745203053",
+    "project_id": "pointage-a04c7",
+    "storage_bucket": "pointage-a04c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688745203053:android:583a80aa600eccaec14664",
+        "android_client_info": {
+          "package_name": "com.example.pointage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOa8erIJWpFKNJ8aC9g7N8wn6CDxFf-z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
